@@ -1,1 +1,1 @@
-# mantis_training
+# repository for mantis training
